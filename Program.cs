@@ -90,5 +90,7 @@ class Programa
         Console.WriteLine($"Resultado da multiplicação: {resultado}");
         Console.ReadKey();
         Menu();
+        // teste alteração
+        Console.WriteLine("Teste");
     }
 }
